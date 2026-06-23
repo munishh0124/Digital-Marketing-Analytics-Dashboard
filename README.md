@@ -12,7 +12,13 @@ Do weekday campaigns outperform weekend campaigns?
 Where does the funnel break down: impressions → clicks → conversions?
 
 📈 Key Insights
-InsightFinding🏆 Best ChannelEmail — ROAS of 6.5, lowest CAC (₹39)⚠️ Highest CACLinkedIn — ₹1,051 per acquisition👥 Best Converting Segment25–34 age group — CVR of 0.10 across all campaign types📅 Best TimingWeekdays outperform weekends on CVR for Email and Google Search🔻 Funnel Drop-off22M impressions → 1M clicks (2.64%) → 0.18% conversions💰 Overall ROAS3.92 — revenue exceeds ad spend across the portfolio
+InsightFinding
+🏆 Best ChannelEmail — ROAS of 6.5, lowest CAC (₹39)
+⚠️ Highest CACLinkedIn — ₹1,051 per acquisition
+👥 Best Converting Segment25–34 age group — CVR of 0.10 across all campaign types
+📅 Best TimingWeekdays outperform weekends on CVR for Email and Google Search
+🔻Funnel Drop-off22M impressions → 1M clicks (2.64%) → 0.18% conversions
+💰 Overall ROAS3.92 — revenue exceeds ad spend across the portfolio
 
 🛠️ Dashboard Features
 KPI Cards (Top Row)
